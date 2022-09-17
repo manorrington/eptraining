@@ -11,7 +11,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     let loader = new Loader({
-      apiKey: 'AIzaSyAykgcMNoaz2UDyG1fzxetv1r1Ouxodao0'
+      apiKey: '-- API KEY --'
     })
 
     loader.load().then(() => {
