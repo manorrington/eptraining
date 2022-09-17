@@ -1,11 +1,4 @@
-.full {
-    width: 70vw;
-    height: 100vh;
-    position: relative;
-    left: 260px;
-  }
-
-  body{
+body{
     margin: 0;
     font-family: Roboto; 
   }
